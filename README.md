@@ -1,3 +1,3 @@
 ## Introduction
-My Name is Yanamala Sreehari . This is my first Readme file in my GitHub Repository.
+My Name is Yanamala Sreehari . This is my  Readme file in my First GitHub Repository.
 
